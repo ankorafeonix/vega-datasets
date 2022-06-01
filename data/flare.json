@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "flare"
+    "name": "Borean"
   },
   {
     "id": 2,
-    "name": "analytics",
+    "name": "Nostratic",
     "parent": 1
   },
   {
