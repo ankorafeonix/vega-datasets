@@ -1,0 +1,186 @@
+{
+  "name": "Borean",
+  "children": [
+    {
+      "name": "Nostratic",
+      "value": 1,
+      "children": [
+        {
+          "name": "Eurasiatic",
+          "children": [
+            {
+              "name": "Indoeuropean",
+              "children": [
+                {
+                  "name": "Anatolian",
+                  "children": [
+                    {
+                      "name": "Luwian",
+                      "value": 3,
+                      "children": [
+                        {
+                          "name": "Lycian",
+                          "value": 5
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hittite",
+                      "value": 4
+                    },
+                    {
+                      "name": "Carian",
+                      "value": 6
+                    },
+                    {
+                      "name": "Lydian"
+                    },
+                    {
+                      "name": "Palaic"
+                    },
+                    {
+                      "name": "Pisidian"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ligurian"
+                },
+                {
+                  "name": "Lusitanian"
+                },
+                {
+                  "name": "Thracian"
+                },
+                {
+                  "name": "Illyrian"
+                },
+                {
+                  "name": "Hellenic",
+                  "children": [
+                    {
+                      "name": "Dorian",
+                      "children": [
+                        {
+                          "name": "Doric",
+                          "children": [
+                            {
+                              "name": "Tsakonian"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Northwest Greek"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mycenaean",
+                      "children": [
+                        {
+                          "name": "Attic",
+                          "children": [
+                            {
+                              "name": "Classical Greek"
+                            },
+                            {
+                              "name": "Koine Greek",
+                              "children": [
+                                {
+                                  "name": "Modern Greek"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ionic",
+                          "children": [
+                            {
+                              "name": "Epic Greek"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Achaean",
+                          "children": [
+                            {
+                              "name": "Arcado"
+                            },
+                            {
+                              "name": "Cypriot"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Aeolic",
+                      "children": [
+                        {
+                          "name": "Aegean"
+                        },
+                        {
+                          "name": "Beotian"
+                        },
+                        {
+                          "name": "Thessalian"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Indo-Iranian",
+                  "children": [
+                    {
+                      "name": "Indo-Aryan",
+                      "children": [
+                        {
+                          "name": "Vedic Sanskrit",
+                          "children": [
+                            {
+                              "name": "Sanskrit"
+                            },
+                            {
+                              "name": "Prakrit",
+                              "children": [
+                                {
+                                  "name": "Maharashtri",
+                                  "children": [
+                                    {
+                                      "name": "Insular Indic",
+                                      "children": [
+                                        {
+                                          "name": "Dhivehi"
+                                        },
+                                        {
+                                          "name": "Sinhalese"
+                                        },
+                                        {
+                                          "name": "Vedda"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dene-Dian",
+      "value": 2
+    }
+  ]
+}
